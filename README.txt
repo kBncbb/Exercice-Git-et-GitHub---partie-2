@@ -4,4 +4,6 @@
 J'importe sur mon ordinateur les fichiers de pseudi-code du calcul de l'impôt sur le revenu, dans la dernière version disponible publiquement (revenus de 2015).
 Je les ajoute à mon repository local sous git, et je me synchronise avec GitHub.
 
-Fait. Je mets à jour ce README en ligne sur GitHub
+Fait. Je mets à jour ce README en ligne sur GitHub.
+
+Sur ma machine, je modifie le plafond de l'avantage du quotient familial (1 510 € pour une demi-part, valeur portée à 1 520 € - c'est mesquin).
